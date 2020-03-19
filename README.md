@@ -3,10 +3,10 @@ by *Giancarlo Ruffo*, Università degli Studi di Torino
 
 Access is public for my students and for everyone else.
 
-# Introduction to matplotlib
+# Introduction to Data Visualisation
 by *Giancarlo Ruffo*, Università degli Studi di Torino
 
-There are thousands of useful resources that you can easily access on the Web to learn how to plot your data, and how to use programming languages, libraries, packages and other tools to master the art of visualising information. With this set of `ipython` notebooks I want to provide the students of my "Complex Networks Analysis and Visualzation" course at the University of Turin with many practical examples to learn basic data and information visualization principles. 
+There are thousands of useful resources that you can easily access on the Web to learn how to plot your data, and how to use programming languages, libraries, packages and other tools to master the art of visualising information. With this set of `ipython` notebooks I want to provide the students of my "Complex Networks Analysis and Visualisation" course at the University of Turin with many practical examples to learn basic data and information visualization principles. 
 
 The main learning objective of the *dataviz* part of the course is to understand the most important design principles behind a good data visualization. Hence our students are invited to understand how to exploit the viewer's perception biases and characteristics to improve their (interactive and non interactive) graphics, how to measure and to assess the quality of a design, and how to create complex data visualization platforms and dashboards. All these design and evaluation principles must be applied, and so more practical skills are considered part of the learning objectives.
 
