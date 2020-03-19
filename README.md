@@ -1,6 +1,8 @@
 # Introduction to Data Visualisation
 by *Giancarlo Ruffo*, Università degli Studi di Torino
 
+**Disclaimer:** This is a work in progress. I will make a lot of changes to this repo during 2020.
+
 Access is public to my students and to everyone else.
 
 There are thousands of useful resources that you can easily access on the Web to learn how to plot your data, and how to use programming languages, libraries, packages and other tools to master the art of visualising information. With this set of `ipython` notebooks I want to provide the students of my "Complex Networks Analysis and Visualisation" course at the University of Turin with many practical examples to learn basic data and information visualization principles. 
