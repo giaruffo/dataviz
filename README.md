@@ -1,10 +1,7 @@
-# dataviz
-by *Giancarlo Ruffo*, Università degli Studi di Torino
-
-Access is public for my students and for everyone else.
-
 # Introduction to Data Visualisation
 by *Giancarlo Ruffo*, Università degli Studi di Torino
+
+Access is public to my students and to everyone else.
 
 There are thousands of useful resources that you can easily access on the Web to learn how to plot your data, and how to use programming languages, libraries, packages and other tools to master the art of visualising information. With this set of `ipython` notebooks I want to provide the students of my "Complex Networks Analysis and Visualisation" course at the University of Turin with many practical examples to learn basic data and information visualization principles. 
 
