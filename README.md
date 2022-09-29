@@ -1,7 +1,7 @@
 # Introduction to Data Visualisation
 by *Giancarlo Ruffo*, Università degli Studi di Torino
 
-**Disclaimer:** This is a work in progress. I will make a lot of changes to this repo during 2020.
+**Disclaimer:** This is a work in progress. I made a lot of changes to this repo during 2020, and I plan to continue updating this tutorial for a while.
 
 Access is public to my students and to everyone else.
 
